@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Bishal Koirala. </h1>
-<h3 align="center">A passionate front-end developer from Nepal</h3>
+<h3 align="center">I am learning productive skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalkl&label=Profile%20views&color=0e75b6&style=flat" alt="bishalkl" /> </p>
 
