@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishalkl" alt="bishalkl" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, Java, Web programming, Database, Mysql and Lunix.**
+- 🌱 I’m currently learning **Python,Numpy,Pandas,Statistics and Probability Database, Mysql and Lunix.**
 
 - 📫 How to reach me **bishal123koirala@gmail.com**
 
