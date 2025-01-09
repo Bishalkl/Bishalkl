@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bishal koirala.</h1>
-<h3 align="center">I am trying to write code.</h3>
+<h3 align="center">I write code and learn every day.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
